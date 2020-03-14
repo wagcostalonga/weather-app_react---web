@@ -4,6 +4,3 @@ Weather Finder Application
 <h3 align=center>
 Application made with React JS
 </h3>
-<br />
-<center>
-![Weather App](screen.gif)
