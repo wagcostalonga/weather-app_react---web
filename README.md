@@ -6,4 +6,4 @@ Application made with React JS
 </h3>
 <br />
 <center>
-![Weather App](https://github.com/wagcostalonga/weather-app_react---web/tree/master/src/assets)
+![Weather App](https://github.com/wagcostalonga/weather-app_react---web/tree/master/src/assets/screen.gif)
