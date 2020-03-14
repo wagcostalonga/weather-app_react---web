@@ -6,4 +6,4 @@ Application made with React JS
 </h3>
 <br />
 <center>
-<img src"https://imgur.com/rHXjr7V" alt="Weather App" />
+![Weather App](https://gfycat.com/kindoccasionalhumpbackwhale)
