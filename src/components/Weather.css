@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+li:first-child {
+  margin-top: 60px;
+}
+
+li span {
+  font-weight: bold;
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+}
+
+form input {
+  width: 100%;
+  border: 1px solid #dddddd;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+  color: #fff;
+  background-color: #62bcfc;
+  border: 0;
+  padding: 10px 25px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+button:hover {
+  background-color: #28a3fc;
+  transition: all 0.5s;
+}

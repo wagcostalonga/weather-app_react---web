@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  background-image: linear-gradient(rgba(255, 97, 110, .7), rgba(255, 195, 113, .8)), url('../assets/sky.png');  
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+body, input {  color: #222;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+/*  -- APP */
+
+.app {
+  background: #fff;
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 50px 30px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.divider {
+  border-bottom: 1px solid #dddd;
+  margin-top: 60px;
+  width: 100%;
+}
